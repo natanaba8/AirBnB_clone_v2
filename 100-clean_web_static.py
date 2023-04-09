@@ -5,7 +5,7 @@ from fabric.state import commands, connections
 import os.path
 
 env.user = 'ubuntu'
-env.hosts = ["104.196.155.240", "34.74.146.120"]
+env.hosts = ["18.210.10.90", "100.25.204.44"]
 env.key_filename = "~/id_rsa"
 
 
